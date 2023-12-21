@@ -5,13 +5,13 @@
   font-size: 45px;
   font-weight: 700;
   color: var(--color-main-black);
-  margin:45px 0 25px 0;
+  margin: 45px 0 25px 0;
 }
 .home-description {
   font-size: 18px;
   font-weight: 500;
   /* color: var(--color-main-black); */
-  margin:0px 0 35px 0;
+  margin: 0px 0 35px 0;
 }
 .home-img {
   width: 100%;
@@ -22,15 +22,12 @@
 @media (max-width: 480px) {
   .home {
     text-align: left;
-    
   }
   .home-title {
     max-width: 250px;
     font-size: 32px;
-
   }
   .home-description {
     font-size: 14px;
-
   }
 }
